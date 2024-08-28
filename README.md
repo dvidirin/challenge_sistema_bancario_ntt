@@ -31,9 +31,14 @@
 
 #### Desenvolver um sistema bancário que inicialmente permita fazer as seguintes operações:
 
+**V1**
 1. Depósito
 2. Saque
 3. Extrato
+
+**V2**
+1. Criar usuário (cliente)
+2. Criar conta-corrente atrelada ao usuário
 
 ## Descrição
 
